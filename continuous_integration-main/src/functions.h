@@ -6,6 +6,9 @@
 
 using namespace std;
 
+
+
+
 // Función para leer un archivo y devolver su contenido como una cadena de texto
 string readFile(const string &filename);
 
